@@ -1,0 +1,2 @@
+# premium-rank-scale-001-pipe-rank-scaling-and-diameter
+Tired of guessing your rank-scaling capacity? Like a pipe too narrow for the flow, most strategies burst under pressure — our tool calculates your exact 'diameter' for seamless scaling.  This Notion template transforms rank-scaling from a chaotic guess into a calculated pipeline. By applying the 'pipe diameter' principle, it automatically sizes you
